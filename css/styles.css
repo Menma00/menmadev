@@ -467,6 +467,10 @@ legend + * {
   -webkit-appearance: button;
 }
 
+.intro {
+  width: fit-content;
+}
+
 output {
   display: inline-block;
 }
