@@ -468,7 +468,8 @@ legend + * {
 }
 
 .intro {
-  width: fit-content;
+  width: 150%;
+  margin-left: -190px;
 }
 
 output {
